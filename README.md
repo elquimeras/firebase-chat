@@ -1,4 +1,4 @@
 # firebase-chat
-Firebase basic chat by BlackSlash
+Chat básico con Firebase
 
 El proyecto esta en fase de desarrollo
